@@ -1,0 +1,1 @@
+Add-DnsServerPrimaryZone -NetworkID "192.168.200.0/24" -ReplicationScope Forest

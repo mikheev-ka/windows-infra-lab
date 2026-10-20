@@ -1,0 +1,1 @@
+Add-DhcpServerInDC -DnsName "dc01.lab.local" -IPAddress 192.168.200.10

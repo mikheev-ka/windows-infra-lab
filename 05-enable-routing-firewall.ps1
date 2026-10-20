@@ -1,0 +1,1 @@
+Get-NetFirewallRule -DisplayGroup *routing* | Enable-NetFirewallRule
